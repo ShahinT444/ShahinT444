@@ -1,16 +1,8 @@
-## 👋 Hi, I'm Shahin
+## 👋 Hi there
 
-I'm a **Semester 1 ECE student from India**, just starting my journey in tech.  
-Right now I'm thinking about learning **IoT, embedded systems, cloud, and coding**, and slowly turning that into small projects.
+🍂 **Semester 1 ECE Student from India**
+⚙️ intrested in **IoT / Embedded **,**cloud**,**coding**
+💻 Learning **python**, **Git** & **Github**
 
-### 🔧 What I'm learning
-- Getting comfortable with **Python**  
-- Planning to move into **MicroPython** and **Embedded C**  
-- Basics of **IoT** (sensors, microcontrollers) and how devices talk to the cloud  
-- Using **Git & GitHub** properly instead of just uploading random code
-
-I’m still at the very beginning, so expect messy code, frequent updates, and new repos as I learn.
-
--
-
+Just starting out - building small things, breaking them, and learning along the way.
 
