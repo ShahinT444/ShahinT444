@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [Shahin]
+## 👋 Hi, I'm Shahin
 
 I'm a **Semester 1 ECE student from India**, just starting my journey in tech.  
 Right now I'm thinking about learning **IoT, embedded systems, cloud, and coding**, and slowly turning that into small projects.
