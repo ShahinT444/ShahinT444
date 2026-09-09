@@ -1,4 +1,4 @@
-## 👋 Hi there
+## Hi there
 
 🍂 **Semester 1 ECE Student from India**
 
