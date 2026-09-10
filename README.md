@@ -6,5 +6,4 @@
 
 💻 Learning **python**, **Git** & **Github**
 
-Just starting and learning along the way
 
