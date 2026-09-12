@@ -1,8 +1,8 @@
 ## About me 
 
-🍂 **Semester 1 ECE Student from India**
+🍂 **Semester 1 ECE**
 
-⚙️ Interested in **IoT/Embedded**,**cloud**,**coding**
+⚙️ Interested in **IoT/Embedded/cloud/coding**
 
 💻 Learning **python**, **Git** & **Github**
 
