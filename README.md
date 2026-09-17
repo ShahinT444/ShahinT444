@@ -4,6 +4,6 @@
 
 ⚙️ Interested in **IoT/Embedded/cloud/coding**
 
-💻 Learning **python**,**Git**&**Github**,**Electronics**
+💻 Learning **python** ,**Git**&**Github**, **Electronics**
 
 
