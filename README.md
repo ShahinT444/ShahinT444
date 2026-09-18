@@ -2,7 +2,7 @@
 
 🍂 **Semester 1 ECE**
 
-⚙️ Interested in **IoT//Embedded//cloud//coding//electronic stuffs** 
+⚙️ Interested in **IoT//Embedded//Cloud//Coding//Electronic Stuffs** 
 
 💻 Learning **python** ,**Git**&**Github**, **Electronics**
 
